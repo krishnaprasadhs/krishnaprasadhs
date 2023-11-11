@@ -6,7 +6,8 @@ As a recent graduate in Computer Science, my portfolio reflects a dedication to 
  <p align="left">
   <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img alt="Email: subramaniumkrishnaprasadh@gmail.com" src="https://example.com/path/to/email-button-image.png" style="display: block; margin: 10px 0;"/>
+  <a <img width="30px" alt="" title="LinkedIn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Femail-logo&psig=AOvVaw2WMgmyvxc80QWOG0J2JHeM&ust=1699788839880000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCf7oHtu4IDFQAAAAAdAAAAABAh"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
    </p>
 
 ---
