@@ -1,4 +1,4 @@
-# 💻 Krishna Prasadh
+# 🖥️ Krishna Prasadh
 
 As a recent graduate in Computer Science, my portfolio reflects a dedication to precision in programming, coupled with a strong emphasis on critical thinking and problem-solving. An avid tech enthusiast, I thrive on staying abreast of the ever-evolving technological landscape. Known for my insatiable curiosity, I approach challenges with an innovative mindset, ensuring continual growth. With a keen eye for detail and a passion for advancing technology, I am poised to contribute dynamic solutions to the field. My portfolio showcases a blend of theoretical knowledge and practical applications, positioning me as a resourceful and adaptable professional ready to make a substantial impact.
 
