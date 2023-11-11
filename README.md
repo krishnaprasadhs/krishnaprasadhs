@@ -6,7 +6,6 @@ As a recent graduate in Computer Science, my portfolio reflects a dedication to 
  <p align="left">
   <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img alt="email: subramaniumkrishnaprasadh@gmail.com" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
