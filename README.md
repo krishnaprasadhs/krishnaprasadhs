@@ -7,7 +7,7 @@ As a recent graduate in Computer Science, my portfolio reflects a dedication to 
   <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    </p>
-   <h4><b>Email: subramaniumkrishnaprasadh@gmail.com</b></h4>
+**`Email: subramaniumkrishnaprasadh@gmail.com</b></h4>`**
 
 ---
 ### 🧰 Languages and Tools
