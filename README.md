@@ -4,7 +4,7 @@ As a recent graduate in Computer Science, my portfolio reflects a dedication to 
 
 **`Contact Info:-`**
  <p align="left">
-  <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> <h5>Email: subramaniumkrishnaprasadh@gmail</h5>
+  <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/><h5>Email: subramaniumkrishnaprasadh@gmail</h5></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    </p>
 
