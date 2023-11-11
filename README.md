@@ -2,7 +2,7 @@
 
 As a recent graduate in Computer Science, my portfolio reflects a dedication to precision in programming, coupled with a strong emphasis on critical thinking and problem-solving. An avid tech enthusiast, I thrive on staying abreast of the ever-evolving technological landscape. Known for my insatiable curiosity, I approach challenges with an innovative mindset, ensuring continual growth. With a keen eye for detail and a passion for advancing technology, I am poised to contribute dynamic solutions to the field. My portfolio showcases a blend of theoretical knowledge and practical applications, positioning me as a resourceful and adaptable professional ready to make a substantial impact.
 
-*`Contact Info:-`*
+**`Contact Info:-`**
  <p align="left">
   <a href="https://www.linkedin.com/in/krishna-prasadh2023/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
